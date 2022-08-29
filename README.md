@@ -15,4 +15,4 @@ A new Flutter project.
 
 - Image Widget
   - ![Screenshot image widget hello_world 01](images/03_01.png)
-  - ![Screenshot image widget hello_world 02](images/0_02.png)
+  - ![Screenshot image widget hello_world 02](images/03_02.png)
