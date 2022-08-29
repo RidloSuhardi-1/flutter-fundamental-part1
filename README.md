@@ -23,6 +23,8 @@ A new Flutter project.
   - ![Screenshot cupertino button dan loading bar hello_world 01](images/04_01.png)
   - ![Screenshot cupertino button dan loading bar hello_world 02](images/04_02.png)
 - Floating Action Button (FAB)
+  - ![Screenshot floating action button hello_world 01](images/05_01.png)
+  - ![Screenshot floating action button hello_world 02](images/05_02.png)
 - Scaffold Widget
 - Dialog Widget
 - Input dan Selection Widget
