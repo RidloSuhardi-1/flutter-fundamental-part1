@@ -29,5 +29,8 @@ A new Flutter project.
   - ![Screenshot scaffold hello_world 01](images/06_01.png)
   - ![Screenshot scaffold hello_world 02](images/06_02.png)
 - Dialog Widget
+  - ![Screenshot dialog hello_world 01](images/07_01.png)
+  - ![Screenshot dialog hello_world 02](images/07_02.png)
+  - ![Screenshot dialog hello_world 03](images/07_03.png)
 - Input dan Selection Widget
 - Date and Time Pickers
