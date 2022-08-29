@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'basic_widgets/text_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -95,9 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'Ahmad Ridlo Suhardi',
-            ),
+            const MyTextWidget(),
             const SizedBox(height: 8),
             Text(
               '$_counter',
