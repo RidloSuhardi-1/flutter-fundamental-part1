@@ -26,6 +26,8 @@ A new Flutter project.
   - ![Screenshot floating action button hello_world 01](images/05_01.png)
   - ![Screenshot floating action button hello_world 02](images/05_02.png)
 - Scaffold Widget
+  - ![Screenshot scaffold hello_world 01](images/06_01.png)
+  - ![Screenshot scaffold hello_world 02](images/06_02.png)
 - Dialog Widget
 - Input dan Selection Widget
 - Date and Time Pickers
