@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'basic_widgets/dialog_widget.dart';
 import 'basic_widgets/scaffold_widget.dart';
 import 'basic_widgets/text_widget.dart';
 import 'basic_widgets/image_widget.dart';
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      home: const MyScaffoldWidget(title: 'Flutter Demo Home Page'),
+      home: const MyLayout(),
     );
   }
 }
