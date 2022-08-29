@@ -9,5 +9,10 @@ A new Flutter project.
 ## Praktikum 3
 
 - Text Widget
+
   - ![Screenshot text widget hello_world 01](images/02_01.png)
   - ![Screenshot text widget hello_world 02](images/02_02.png)
+
+- Image Widget
+  - ![Screenshot image widget hello_world 01](images/03_01.png)
+  - ![Screenshot image widget hello_world 02](images/0_02.png)
