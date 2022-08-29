@@ -16,3 +16,14 @@ A new Flutter project.
 - Image Widget
   - ![Screenshot image widget hello_world 01](images/03_01.png)
   - ![Screenshot image widget hello_world 02](images/03_02.png)
+
+## Praktikum 4
+
+- Cupertino Button dan Loading Bar
+  - ![Screenshot cupertino button dan loading bar hello_world 01](images/04_01.png)
+  - ![Screenshot cupertino button dan loading bar hello_world 02](images/04_02.png)
+- Floating Action Button (FAB)
+- Scaffold Widget
+- Dialog Widget
+- Input dan Selection Widget
+- Date and Time Pickers
