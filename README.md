@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Praktikum 1
+
+![Screenshot hello_world](images/01.png)
+
+Membuat project Flutter baru
+
 ## Praktikum 2
 
 ![Screenshot hello_world](images/01.png)
